@@ -1,8 +1,6 @@
-# atividade-1
+README de Repositorio Atividade 1
 
-adicionado por programador 2
-
-modificacao do programador 1 
+Arquivo criado no repositorio local para ser mesclado no remoto
 
 Comandos Importantes para gerenciamento:
 git commit -m
